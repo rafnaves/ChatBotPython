@@ -1,1 +1,2 @@
-# just a simple chatbot i did when i was bored.
+# Simple ChatBot
+That uses the worlds you said to find a matching response.
