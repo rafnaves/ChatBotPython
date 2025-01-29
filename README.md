@@ -1,2 +1,2 @@
 # Simple ChatBot
-That uses the worlds you said to find a matching response.
+A Chat Bot that uses the words you said to find a matching response.
